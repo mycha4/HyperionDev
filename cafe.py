@@ -1,7 +1,7 @@
 # program that calculates total stock worth in my cafe
 # cafe menu
 menu = ["Breakfast wrap","Toast with jam","Bagel with cream cheese","Ham and cheese melt","Black coffee","White coffee", "Orange juice","Tea"]
-# cafe stock
+# stock items 
 stock = {
         "Breakfast wrap": 5,
         "Toast with jam": 6,
@@ -12,7 +12,7 @@ stock = {
         "Orange juice": 6,
         "Tea": 11,
          }
-# cafe prices per item         
+# prices per item         
 price = {
         "Breakfast wrap": 6.50,
         "Toast with jam": 4,
