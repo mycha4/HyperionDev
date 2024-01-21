@@ -14,7 +14,7 @@ cities_flight_cost = {
 }
 # ask user for number of nights
 num_nights = int(input("Please enter the number of nights you are planning to stay at the hotel: "))
-# ask user for lenght of hire car 
+# ask user for number of days of hire car 
 rental_days = int(input("Please enter the number of days you will need your hired car for: "))
 # function to calculate hotel cost
 def hotel_cost(num_nights):
